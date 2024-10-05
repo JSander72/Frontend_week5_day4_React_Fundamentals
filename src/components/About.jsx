@@ -6,9 +6,10 @@ const About = () => {
       <section>
         <h2>About Me</h2>
         <p>
-          This is a brief description about yourself or a fictional character. 
-          You can write about your interests, skills, or anything else you 
-          want to share.
+        Raised in Birmingham, Alabama, and a graduate of Miles College.
+                    Throughout my life, I've embraced challenges and overcome them with
+                    determination. I'm excited to leverage this same resilience as I
+                    pursue a rewarding career in software engineering.
         </p>
       </section>
     );
